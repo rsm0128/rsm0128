@@ -1,14 +1,14 @@
 ### Hi 👋
 
 ## Overview
-	11 years as a WordPress/PHP Developer
-	5 years with Modern JS Frameworks (Vue.js, React.js)
+-	11 years as a WordPress/PHP Developer
+-	5 years with Modern JS Frameworks (Vue.js, React.js)
 
 ## Skills
-	BackEnd: PHP, WordPress, Magento, Laravel, NodeJS, Express
-	FrontEnd: JavaScript, Vue.js, React.js, TypeScript, jQuery, HTML5, CSS3, Bootstrap
-	Database: MySQL, MariaDB, Mongo, PostgreSQL
-	Other: AWS, Git, GraphQL, REST API, ECommerce, Stripe, PayPal
+-	BackEnd: PHP, WordPress, Magento, Laravel, NodeJS, Express
+-	FrontEnd: JavaScript, Vue.js, React.js, TypeScript, jQuery, HTML5, CSS3, Bootstrap
+-	Database: MySQL, MariaDB, Mongo, PostgreSQL
+-	Other: AWS, Git, GraphQL, REST API, ECommerce, Stripe, PayPal
 
 I'm open to work and feel free to contact me.
 Thanks!
