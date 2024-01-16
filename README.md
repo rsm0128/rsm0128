@@ -1,8 +1,8 @@
 ### Hi 👋
 
 ## Overview
--	11 years as a WordPress/PHP Developer
--	5 years with Modern JS Frameworks (Vue.js, React.js)
+-	12 years as a PHP/WordPress/Laravel Developer
+-	6 years with Modern JS Frameworks (Vue.js, React.js)
 
 ## Skills
 -	BackEnd: PHP, WordPress, Magento, Laravel, NodeJS, Express
