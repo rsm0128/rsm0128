@@ -1,17 +1,32 @@
-### Hi 👋
+### Hi there! 👋
 
-## Overview
--	12 years as a PHP/WordPress/Laravel Developer
--	6 years with Modern JS Frameworks (Vue.js, React.js)
+#### About Me
 
-## Skills
--	BackEnd: PHP, WordPress, Magento, Laravel, NodeJS, Express
--	FrontEnd: JavaScript, Vue.js, React.js, TypeScript, jQuery, HTML5, CSS3, Bootstrap
--	Database: MySQL, MariaDB, Mongo, PostgreSQL
--	Other: AWS, Git, GraphQL, REST API, ECommerce, Stripe, PayPal
+I’m a passionate Full-Stack Developer with over 14 years of experience in the tech industry. As a devoted husband and father, I bring the same dedication to my work, creating innovative solutions and delivering high-quality code. 
 
-I'm open to work and feel free to contact me.
-Thanks!
+#### Professional Experience
+
+- **14+ years** working with WordPress, PHP, JavaScript, HTML, and CSS.
+- **6 years** of experience with Modern JavaScript Frameworks, including Vue.js and React.js.
+
+#### Technical Skills
+
+**Back-End Development:**
+- PHP, WordPress, Node.js, Express, Laravel, Nuxt
+
+**Front-End Development:**
+- JavaScript, Vue.js, React.js, HTML5, CSS3, Bootstrap, jQuery
+
+**Database Management:**
+- MySQL, MariaDB, MongoDB, PostgreSQL
+
+**Additional Technologies:**
+- AI, AWS, Git, GraphQL, REST APIs, E-Commerce solutions
+
+#### Let’s Connect
+
+I’m currently open to new opportunities and collaborations. Feel free to reach out!
+
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/rsm0128/rsm0128">
