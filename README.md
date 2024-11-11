@@ -6,7 +6,7 @@ I’m a passionate Full-Stack Developer with over 14 years of experience in the 
 
 #### Professional Experience
 
-- **14+ years** working with WordPress, PHP, JavaScript, HTML, and CSS.
+- **14+ years** working with PHP, JavaScript, Python, HTML, and CSS.
 - **6 years** of experience with Modern JavaScript Frameworks, including Vue.js and React.js.
 
 #### Technical Skills
@@ -15,7 +15,7 @@ I’m a passionate Full-Stack Developer with over 14 years of experience in the 
 - PHP, WordPress, Node.js, Express, Laravel, Nuxt
 
 **Front-End Development:**
-- JavaScript, Vue.js, React.js, HTML5, CSS3, Bootstrap, jQuery
+- JavaScript, Vue.js, React.js, HTML5, CSS3, Bootstrap, jQuery, Nuxt.js, Next.js
 
 **Database Management:**
 - MySQL, MariaDB, MongoDB, PostgreSQL
