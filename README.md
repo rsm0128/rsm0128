@@ -2,11 +2,11 @@
 
 #### About Me
 
-I’m a passionate Full-Stack Developer with over 14 years of experience in the tech industry. As a devoted husband and father, I bring the same dedication to my work, creating innovative solutions and delivering high-quality code. 
+I’m a passionate Full-Stack Developer with over 15 years of experience in the tech industry. As a devoted husband and father, I bring the same dedication to my work, creating innovative solutions and delivering high-quality code. 
 
 #### Professional Experience
 
-- **14+ years** working with PHP, JavaScript, Python, HTML, and CSS.
+- **15+ years** working with PHP, JavaScript, Python, HTML, and CSS.
 - **6 years** of experience with Modern JavaScript Frameworks, including Vue.js and React.js.
 
 #### Technical Skills
